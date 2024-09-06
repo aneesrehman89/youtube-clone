@@ -1,2 +1,2 @@
 # youtube-clone
-youtube-clone | Html | Css | Bootstrap | responsive
+youtube-clone | Html | Css | Bootstrap 
